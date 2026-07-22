@@ -19,7 +19,7 @@ I turn messy real-world problems into **reliable systems**: multi-provider LLM g
 | **[ai-budget-proxy](https://github.com/broom609/ai-budget-proxy)** | FastAPI · OpenAI/Anthropic/Gemini | OpenAI-compatible proxy with **daily USD caps** and spend tracking |
 | **[firstresponse-ai](https://github.com/broom609/firstresponse-ai)** | FastAPI · Twilio · Airtable · OpenAI | Missed-call → SMS lead recovery agent for contractors |
 | **[support-rag-desk](https://github.com/broom609/support-rag-desk)** | FastAPI · TF-IDF retrieval · eval harness | Customer-support RAG with retrieval metrics and grounded answers |
-| **[wealthpulse](https://github.com/broom609/wealthpulse)** | Vanilla JS · client-only | Private bank-CSV wealth score + action plan (no server, no keys) |
+| **[wealthpulse](https://github.com/broom609/wealthpulse)** ·  [live demo ↗](https://broom609.github.io/wealthpulse/) | Vanilla JS · client-only | Private bank-CSV wealth score + action plan (no server, no keys) |
 | **[domain-intelligence-api](https://github.com/broom609/domain-intelligence-api)** | FastAPI · DNS/MX | Domain risk, disposable email, reputation heuristics |
 
 ### Stack
